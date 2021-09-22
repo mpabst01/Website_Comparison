@@ -81,3 +81,20 @@
     .appReviews {
         content: inherit;
     }
+    
+    .subitup {
+        margin: 1rem;
+        padding-bottom: 2rem;
+        border-bottom: .25rem solid cornflowerblue;
+    }
+    
+    .w2w {
+        margin: 1rem;
+        padding-bottom: 2rem;
+        border-bottom: .25rem solid cornflowerblue;
+    }
+    
+    .sling {
+        margin: 1rem;
+        padding-bottom: 2rem;
+    }
